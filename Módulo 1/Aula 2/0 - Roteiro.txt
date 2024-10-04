@@ -1,0 +1,7 @@
+A ordem dos arquivos é:
+- TiposDeDadosPrimitivos.java
+- TiposDeDadosReferenciados.java
+- Variaveis.java
+- Operadores.java
+- SaidaDeDados.java
+- EntradaDeDados.java
