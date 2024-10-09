@@ -1,0 +1,4 @@
+Ordem dos Arquivos
+- Convercoes
+- Casting
+- ConvercoesString
