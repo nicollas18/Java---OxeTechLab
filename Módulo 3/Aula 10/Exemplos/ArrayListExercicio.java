@@ -3,12 +3,11 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /*
-Descrição: Crie um programa que armazena uma lista de produtos e seus preços usando um ArrayList. O programa deve:
+Descrição: Crie um programa que armazena uma lista nomes usando um ArrayList. O programa deve:
 
-Permitir ao usuário adicionar um novo produto e seu preço.
-Permitir ao usuário atualizar o preço de um produto específico.
-Permitir ao usuário remover um produto da lista.
-Exibir todos os produtos e preços.
+Permitir ao usuário adicionar um novo nome.
+Permitir ao usuário remover um nome específico da lista.
+Permitir ao usuário ver todos os nomes da lista.
  */
 
 public class ArrayListExercicio {
